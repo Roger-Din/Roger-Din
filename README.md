@@ -26,7 +26,7 @@ I enjoy building systems that solve practical problems—from graph algorithms a
 
 ## Independent Experiments
 
-- **Flag Learning Studio** — An interactive bilingual flag-learning application with multiple quiz modes and offline support.
+- **[Flag Learning Studio](https://github.com/Roger-Din/flag-learning-studio)** — An interactive bilingual flag-learning application with multiple quiz modes and offline support.
 - **Daily Avatar Automation** — A browser automation workflow for rotating and validating scheduled profile images.
 - **Human Evolution Learning Experience** — An interactive educational webpage featuring timelines, comparisons, misconception correction, and 3D content.
 
