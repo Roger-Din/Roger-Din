@@ -1,6 +1,6 @@
 # Hi, I'm Roger 👋
 
-I am a Computer Science and Data Science student based in Sydney, Australia.
+I am a Data Science student based in Sydney, Australia.
 
 I enjoy building systems that solve practical problems—from graph algorithms and database applications to autonomous agents and developer tools. My work focuses on understanding how software behaves beneath the interface, not just making it run.
 
